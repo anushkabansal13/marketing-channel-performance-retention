@@ -64,13 +64,13 @@ SQL was used to calculate:
 - Variant (A/B) Impact
 - Language and Age Group Trends
 
-> All SQL queries are in [`sql/Marketing Channel SQL QUERIES.docx`](./sql/Marketing%20Channel%20SQL%20QUERIES.docx)
+> All SQL queries are in [`sql/Marketing Channel SQL QUERIES.docx`](https://1drv.ms/w/c/DC9E68D5D2958D16/EbSbTdGZacdHsXuZWbEYiCIBSJY5VStsEAsbnqDtj-4e3Q?e=HIKXkt)
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard](./dashboard/Marketing_Dashboard.png)
+![Power BI Dashboard]
 
 ---
 
@@ -110,6 +110,9 @@ SQL was used to calculate:
 
 │ └──<img width="1019" height="548" alt="Screenshot 2025-07-24 164114" src="https://github.com/user-attachments/assets/382c6c5f-b5ef-41c1-ad28-21f3ae4815b8" />
 
+└── report/
+   └── Full_Report.pdf 
+
 
 ---
 
@@ -124,7 +127,7 @@ SQL was used to calculate:
 ## 📬 Contact
 
 **Anushka Bansal**  
-_B.Com Student | Aspiring Data Analyst_  
+  Aspiring Data Analyst_  
 📫 [www.linkedin.com/in/anushkabansal13] 
 📧 anushkabansalhere@gmail.com
 
