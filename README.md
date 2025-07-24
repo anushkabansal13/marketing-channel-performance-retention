@@ -96,12 +96,20 @@ SQL was used to calculate:
 ## 📁 Folder Structure
 
 📦 marketing-channel-performance-retention
+
 ├── 📊 dataset/
+
 │ └──[https://1drv.ms/x/c/b6c51eda1fffdcf4/EWAecB9JsAFJu8GEUxaA_MQBzzg2LxxZsG9BS8IutMmLPQ?e=qXA89c]
+
 ├── 📜 sql/
+
 │ └──[https://1drv.ms/w/c/DC9E68D5D2958D16/EbSbTdGZacdHsXuZWbEYiCIBSJY5VStsEAsbnqDtj-4e3Q?e=rxiLTF]
+
 ├── 📊 dashboard/
+
+
 │ └──<img width="1019" height="548" alt="Screenshot 2025-07-24 164114" src="https://github.com/user-attachments/assets/382c6c5f-b5ef-41c1-ad28-21f3ae4815b8" />
+
 
 ---
 
