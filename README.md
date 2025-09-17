@@ -1,4 +1,4 @@
-# 📊 Marketing Channel Performance & Retention Analysis
+# 📊 Marketing Campaign Funnel & Retention Analysis
 
 This project analyzes marketing campaign effectiveness and user retention patterns using SQL, Excel, and Power BI. It aims to identify which channels and strategies drive conversions and long-term user retention.
 
