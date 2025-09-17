@@ -129,7 +129,9 @@ Power BI Dashboard: [<img width="1019" height="548" alt="PowerBI Dashboard" src=
 
 **Anushka Bansal**  
   Aspiring Data Analyst_  
-📫 [www.linkedin.com/in/anushkabansal13] 
-📧 anushkabansalhere@gmail.com
+LinkedIn: [www.linkedin.com/in/anushkabansal13] 
 
+Medium: [https://medium.com/@anushkabansal13/marketing-channel-performance-user-retention-analysis-0c2c81adc0e2]
+
+E-Mail: anushkabansalhere@gmail.com
 
