@@ -70,7 +70,8 @@ SQL was used to calculate:
 
 ## 📊 Dashboard Preview
 
-![Power BI Dashboard]
+Power BI Dashboard: [<img width="1019" height="548" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/258008ee-6ee3-40bb-bb9d-9f3404ae93d2" />]
+
 
 ---
 
