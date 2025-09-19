@@ -34,7 +34,7 @@ This project analyzes marketing campaign effectiveness and user retention patter
 
 | Tool          | Purpose                         |
 |---------------|---------------------------------|
-| SQL (PostgreSQL/MySQL) | Data cleaning and KPI calculations |
+| SQL Server | Data cleaning and KPI calculations |
 | Excel         | Data formatting and summaries   |
 | Power BI      | Dashboard & Insights Visualization |
 
